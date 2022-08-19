@@ -1,10 +1,10 @@
-👋 Hi, I’m @pranav172
+👋 Hi, I’m @pranav172.
 👀 I’m interested in coding and physics.
 🌱 I’m currently learning backend development.
 💞️ I’m looking to collaborate on backend games development project.
 📫 To reach out -
-    twitter - @pranav_raj_18
-    insta - @pranav_raj_18
+    twitter - @pranav_raj_18,
+    insta - @pranav_raj_18.
     
 
 <!---
