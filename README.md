@@ -1,6 +1,6 @@
 👋 Hi, I’m @pranav172.
 👀 I’m interested in coding and physics.
-🌱 I’m currently learning backend development.
+🌱 I’m currently learning cpp.
 💞️ I’m looking to collaborate on backend games development project.
 📫 To reach out -
     twitter - @pranav_raj_18,
