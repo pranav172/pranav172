@@ -1,7 +1,7 @@
 👋 Hi, I’m @pranav172.
 👀 I’m interested in coding and physics
 📫 To reach out -
-    twitter - @pranav_raj_18,
+    X - @pranav_raj_18,
   
     
 
